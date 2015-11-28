@@ -1,0 +1,31 @@
+{
+  "name": "gulpstarter",
+  "version": "1.0.0",
+  "description": "Minimalist structure for a Gulp project.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanfonin/gulpstarter.git"
+  },
+  "keywords": [
+    "gulp",
+    "require-dir",
+    "gulp-load-plugins",
+    "structure",
+    "project"
+  ],
+  "author": "Ivan Fonin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanfonin/gulpstarter/issues"
+  },
+  "homepage": "https://github.com/ivanfonin/gulpstarter#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-load-plugins": "^1.1.0",
+    "require-dir": "^0.3.0"
+  }
+}
